@@ -1,0 +1,10 @@
+.env
+.venv
+__pycache__
+.ipynb_checkpoints/
+.chainlit/
+credentials.json
+token.json
+qa_dataset.json
+data/
+
